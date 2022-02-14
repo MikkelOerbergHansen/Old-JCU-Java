@@ -1,4 +1,4 @@
-/*package ProgrammingExercises;
+package ProgrammingExercises;
 /* comments */
 
 import javax.swing.JOptionPane;
