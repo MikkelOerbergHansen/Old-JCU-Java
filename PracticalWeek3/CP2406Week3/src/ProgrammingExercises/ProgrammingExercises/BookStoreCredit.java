@@ -31,5 +31,6 @@ public class BookStoreCredit {
         credit = 10 * GPA;
         System.out.println("Hello " + name + ", your GPA is " + GPA + "\n" +
                 "This gives you a bookstore credit of $" + credit);
+                
     }
 }
