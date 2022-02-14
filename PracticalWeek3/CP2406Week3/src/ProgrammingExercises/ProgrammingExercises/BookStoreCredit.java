@@ -15,7 +15,7 @@ public class BookStoreCredit {
         String name;
         Scanner input = new Scanner(System.in);
         System.out.print("Enter your name: ");
-        name = input.next();
+        name = input.nextLine();
         return name;
     }
     private static double getGPA() {
