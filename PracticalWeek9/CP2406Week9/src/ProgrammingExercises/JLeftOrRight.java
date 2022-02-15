@@ -1,7 +1,6 @@
 package ProgrammingExercises;
 
 import javax.swing.*;
-import java.awt.*;
 import java.awt.event.*;
 public class JLeftOrRight extends JFrame implements MouseListener
 {
@@ -38,7 +37,7 @@ public class JLeftOrRight extends JFrame implements MouseListener
     @Override
     public void mouseReleased(MouseEvent e)
     {
-        label.setText("Left or Right value: " + e.getModifiers());
+        label.setText("Left or Right value: " + e.getModifiersEx());
     }
 }
 
