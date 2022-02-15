@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "PracticalWeek4/CP2406Week4/src/ProgrammingExercises",
+        "PracticalWeek3/CP2406Week3/src/ProgrammingExercises",
         "PracticalWeek2/CP2406Week2/src/ProgrammingExercises",
         "PracticalWeek1/CP2406Week1/src/ProgrammingExercises",
-        "PracticalWeek3/CP2406Week3/src/ProgrammingExercises"
+        "PracticalWeek5/CP2406Week5/src/ProgrammingExercises"
     ]
 }
