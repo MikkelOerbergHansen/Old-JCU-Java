@@ -61,7 +61,7 @@ public class ReadRandomEmployeeFile extends JFrame
     {
         try
         {
-            br = new BufferedReader(new FileReader("Employees.txt"));
+            br = new BufferedReader(new FileReader("PracticalWeek9/CP2406Week9/src/ProgrammingExercises/Employees.txt"));
         }
         catch(IOException e)
         {

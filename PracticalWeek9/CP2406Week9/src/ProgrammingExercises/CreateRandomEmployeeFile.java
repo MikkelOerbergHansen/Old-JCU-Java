@@ -30,7 +30,7 @@ public class CreateRandomEmployeeFile extends JFrame
         super("Create File");
         try
         {
-            writer = new PrintWriter(new FileWriter("Employees.txt", false));
+            writer = new PrintWriter(new FileWriter("PracticalWeek9/CP2406Week9/src/ProgrammingExercises/Employees.txt", false));
 
         }
         catch(IOException e)
@@ -73,7 +73,7 @@ public class CreateRandomEmployeeFile extends JFrame
                 num = MAXNUM;
             try
             {
-                writer = new PrintWriter(new FileWriter("Employees.txt", true));
+                writer = new PrintWriter(new FileWriter("PracticalWeek9/CP2406Week9/src/ProgrammingExercises/Employees.txt", true));
 
             }
             catch(IOException e)
