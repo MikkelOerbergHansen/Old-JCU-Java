@@ -1,3 +1,14 @@
 {
-    "java.project.sourcePaths": []
+    "java.project.sourcePaths": [
+        "PracticalWeek1\\CP2406Week1\\src",
+        "PracticalWeek2\\CP2406Week2\\src",
+        "PracticalWeek3\\CP2406Week3\\src",
+        "PracticalWeek4\\CP2406Week4\\src",
+        "PracticalWeek5\\CP2406Week5\\src",
+        "PracticalWeek6\\CP2406Week6\\src",
+        "PracticalWeek7\\cp2406week7\\src",
+        "PracticalWeek8\\CP2406Week8\\src",
+        "PracticalWeek9\\CP2406Week9\\src",
+        "PracticalWeek10\\Cp2406week10\\src"
+    ]
 }
