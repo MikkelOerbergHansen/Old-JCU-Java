@@ -10,7 +10,9 @@
         ],
         "exclude": [
             "lib/hamcrest-core-1.3.jar",
-            "lib/junit-4.13.2.jar"
+            "lib/junit-4.13.2.jar",
+            "Assignment/cp2406-project-MikkelOerberg2/src/lib/junit-4.13.2.jar",
+            "Assignment/cp2406-project-MikkelOerberg2/src/lib/hamcrest-core-1.3.jar"
         ]
     }
 }
