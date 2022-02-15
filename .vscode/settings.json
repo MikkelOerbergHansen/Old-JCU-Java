@@ -1,5 +1,15 @@
 {
     "java.project.sourcePaths": [
-        "."
+        "miscCode",
+        "PracticalWeek1",
+        "PracticalWeek2",
+        "PracticalWeek3",
+        "PracticalWeek4",
+        "PracticalWeek5",
+        "PracticalWeek6",
+        "PracticalWeek7",
+        "PracticalWeek8",
+        "PracticalWeek9",
+        "PracticalWeek10"
     ]
 }
