@@ -9,6 +9,11 @@
         "PracticalWeek7\\cp2406week7\\src",
         "PracticalWeek8\\CP2406Week8\\src",
         "PracticalWeek9\\CP2406Week9\\src",
-        "PracticalWeek10\\Cp2406week10\\src"
-    ]
+        "PracticalWeek10\\Cp2406week10\\src",
+        "miscCode\\cp2406_farrell8_ch01\\DebuggingExercises",
+        "miscCode\\cp2406_farrell8_ch01\\CodeInFigures",
+        "miscCode\\cp2406_farrell8_ch02\\DebuggingExercises",
+        "miscCode\\cp2406_farrell8_ch02\\CodeInFigures"
+    ],
+    "java.project.outputPath": "out"
 }
