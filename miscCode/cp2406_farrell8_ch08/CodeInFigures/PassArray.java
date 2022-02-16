@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch08.CodeInFigures;
+
 public class PassArray
 {
    public static void main(String[] args)

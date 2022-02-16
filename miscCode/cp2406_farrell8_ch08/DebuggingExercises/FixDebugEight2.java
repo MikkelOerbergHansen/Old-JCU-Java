@@ -1,5 +1,5 @@
 // Sum and average an array of integers
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch08.DebuggingExercises;
 
 public class FixDebugEight2
 {

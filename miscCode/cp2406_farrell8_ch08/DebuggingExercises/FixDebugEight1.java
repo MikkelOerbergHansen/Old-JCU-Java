@@ -1,7 +1,7 @@
 // Application prompts user showing valid shipping codes
 // accepts a shipping code
 // and determines if it is valid
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch08.DebuggingExercises;
 
 import javax.swing.*;
 public class FixDebugEight1

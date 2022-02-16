@@ -1,6 +1,6 @@
 // Allows user to enter a series of words
 // and displays them in reverse order
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch08.DebuggingExercises;
 import javax.swing.*;
 public class FixDebugEight4
 {

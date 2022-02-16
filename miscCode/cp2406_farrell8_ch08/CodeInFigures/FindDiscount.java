@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch08.CodeInFigures;
+
 import javax.swing.*;
 public class FindDiscount
 {

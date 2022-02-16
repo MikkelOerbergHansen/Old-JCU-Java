@@ -1,7 +1,7 @@
 // Application looks up home price
 // for different floor plans
 // allows upper or lowercase data entry
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch08.DebuggingExercises;
 import javax.swing.*;
 public class FixDebugEight3
 {
