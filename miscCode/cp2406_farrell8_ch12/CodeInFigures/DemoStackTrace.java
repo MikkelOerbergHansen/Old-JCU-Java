@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch12.CodeInFigures;
+
 public class DemoStackTrace
 {
    public static void main(String[] args)

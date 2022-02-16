@@ -1,6 +1,8 @@
 // A byte can't hold a value higher than 127
 // This program throws an ArithmeticException
 // if adding two bytes yields a value that is too high
+package miscCode.cp2406_farrell8_ch12.DebuggingExercises;
+
 public class FixDebugTwelve2
 {
    public static void main(String[] args) throws ArithmeticException

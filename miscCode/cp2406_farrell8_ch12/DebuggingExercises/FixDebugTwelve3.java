@@ -1,5 +1,7 @@
 // Catch exceptions for array index out of bounds
 // or dividing by 0 
+package miscCode.cp2406_farrell8_ch12.DebuggingExercises;
+
 import javax.swing.*;
 public class FixDebugTwelve3
 {

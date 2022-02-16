@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch12.CodeInFigures;
+
 import java.util.*;
 public class DivisionMistakeCaught4
 {
@@ -19,6 +21,6 @@ public class DivisionMistakeCaught4
       {
          System.out.println("Operation unsuccessful");
       }
-      System.out.println(“End of program”);
+      System.out.println("End of progra");
    }
 }

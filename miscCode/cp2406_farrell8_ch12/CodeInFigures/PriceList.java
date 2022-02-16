@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch12.CodeInFigures;
+
 public class PriceList
 {
    private static final double[] price = {15.99, 27.88, 34.56, 45.89};

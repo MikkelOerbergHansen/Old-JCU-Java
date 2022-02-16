@@ -1,9 +1,11 @@
+package miscCode.cp2406_farrell8_ch12.CodeInFigures;
+
 import java.util.Scanner;
 class UninitializedVariableTest
 {
    static void main(String[] args)
    {
-      int x;
+      int x=0;
       Scanner input = new Scanner(System.in);
       try
       {

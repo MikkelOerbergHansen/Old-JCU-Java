@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch12.CodeInFigures;
+
 import java.util.*;
 public class PriceListApplication1
 {

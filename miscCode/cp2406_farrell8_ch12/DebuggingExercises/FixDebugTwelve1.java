@@ -1,4 +1,6 @@
 // This class determines the logarithm of a number
+package miscCode.cp2406_farrell8_ch12.DebuggingExercises;
+
 public class FixDebugTwelve1
 {
   public static void main(String[] args) throws ArithmeticException

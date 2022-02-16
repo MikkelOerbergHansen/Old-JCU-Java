@@ -1,6 +1,8 @@
 // An employee ID can't be more than 999
 // Keep executing until user enters four valid employee IDs
 // This program throws a FixDebugEmployeeIDException
+package miscCode.cp2406_farrell8_ch12.DebuggingExercises;
+
 import javax.swing.*;
 public class FixDebugTwelve4
 {
