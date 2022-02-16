@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch15.DebuggingExercises;
 
 // Lets user type keys
 // Displays each key typed

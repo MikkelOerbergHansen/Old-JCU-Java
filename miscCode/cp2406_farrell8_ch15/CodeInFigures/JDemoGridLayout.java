@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch15.CodeInFigures;
+
 import javax.swing.*;
 import java.awt.*;
 public class JDemoGridLayout extends JFrame

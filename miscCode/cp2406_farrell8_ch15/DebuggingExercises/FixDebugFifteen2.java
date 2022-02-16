@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch15.DebuggingExercises;
 // Demonstrates layout positions
 // using BorderLayout
 import javax.swing.*;

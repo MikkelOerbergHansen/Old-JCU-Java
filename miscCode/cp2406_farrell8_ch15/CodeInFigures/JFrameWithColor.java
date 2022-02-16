@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch15.CodeInFigures;
+
 import java.awt.*;
 import java.awt.Color;
 import javax.swing.*;
