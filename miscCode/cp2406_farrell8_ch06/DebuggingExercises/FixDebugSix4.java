@@ -2,7 +2,7 @@
 // Displays 5 random numbers between 
 // (and including) user-specified values
 
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch06.DebuggingExercises;
 import java.util.Scanner;
 public class FixDebugSix4
 {

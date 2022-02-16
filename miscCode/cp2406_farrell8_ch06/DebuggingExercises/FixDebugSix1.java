@@ -2,7 +2,7 @@
 // Start with a penny
 // double it every day
    //how much do you have in a 30-day month?
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch06.DebuggingExercises;
 
 public class FixDebugSix1
 {

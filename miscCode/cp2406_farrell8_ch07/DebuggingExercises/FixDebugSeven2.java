@@ -2,7 +2,7 @@
 // separated by spaces
 // Program converts them to numbers and sums them
 
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch07.DebuggingExercises;
 import java.util.*;
 
 public class FixDebugSeven2

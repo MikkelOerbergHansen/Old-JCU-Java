@@ -4,7 +4,7 @@
 // At command line, count down to blastoff
 // With a brief pause between each displayed value
 
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch06.DebuggingExercises;
 import javax.swing.*;
 public class FixDebugSix3
 {

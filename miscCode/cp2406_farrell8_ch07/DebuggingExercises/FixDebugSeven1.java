@@ -1,5 +1,5 @@
 // Makes String comparisons
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch07.DebuggingExercises;
 public class FixDebugSeven1
 {
    public static void main(String[] args)

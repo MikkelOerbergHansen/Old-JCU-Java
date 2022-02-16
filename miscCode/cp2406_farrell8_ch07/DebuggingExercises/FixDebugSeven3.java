@@ -1,5 +1,5 @@
 // Program displays some facts about a string
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch07.DebuggingExercises;
 
 public class FixDebugSeven3
 {

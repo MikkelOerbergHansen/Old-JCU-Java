@@ -1,7 +1,7 @@
 // FixDebugSix2.java
 // Display every character between Unicode 65 and 122
 // Start new line after 20 characters
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch06.DebuggingExercises;
 
 public class FixDebugSix2
 {

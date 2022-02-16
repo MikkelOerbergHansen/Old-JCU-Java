@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch07.CodeInFigures;
+
 import javax.swing.*;
 public class BusinessLetter
 {

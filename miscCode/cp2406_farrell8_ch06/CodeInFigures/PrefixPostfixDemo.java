@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch06.CodeInFigures;
+
 public class PrefixPostfixDemo
 {
    public static void main(String[] args)
