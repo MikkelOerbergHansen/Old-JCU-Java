@@ -1,5 +1,7 @@
 // This program shows a customer
 // what a shirt looks like in different colors
+package miscCode.cp2406_farrell8_ch16.DebuggingExercises;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.Color;

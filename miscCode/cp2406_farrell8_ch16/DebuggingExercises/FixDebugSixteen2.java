@@ -1,6 +1,8 @@
 // The panel should change colorwhen user's mouse enters or exits it
 // A circle should appear wherever the user clicks
 // The circle becomes smaller when the user double-clicks
+package miscCode.cp2406_farrell8_ch16.DebuggingExercises;
+
 
 import javax.swing.*;
 import java.awt.*;

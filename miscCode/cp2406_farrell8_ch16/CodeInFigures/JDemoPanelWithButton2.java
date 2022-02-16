@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 public class JDemoPanelWithButton2 extends JFrame
 {
-   JPanelWithButton2 p1 = new JPanelWithButton2();
+   JPanelWIthButton2 p1 = new JPanelWIthButton2();
    public JDemoPanelWithButton2()
    {
       setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

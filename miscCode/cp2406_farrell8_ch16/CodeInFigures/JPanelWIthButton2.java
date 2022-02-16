@@ -3,11 +3,11 @@ package miscCode.cp2406_farrell8_ch16.CodeInFigures;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-public class JPanelWithButton2 extends JPanel implements ActionListener
+public class JPanelWIthButton2 extends JPanel implements ActionListener
 {
    JButton button = new JButton("Press me");
    int count = 0;
-   public JPanelWithButton2()
+   public JPanelWIthButton2()
    {
       add(button);
       button.addActionListener(this);
