@@ -1,6 +1,6 @@
-package test;
+package Assignment.cp2406ProjectMikkelOerberg2.src.test;
 
-import Tron.Lightcycle;
+import Assignment.cp2406ProjectMikkelOerberg2.src.Tron.Lightcycle;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
