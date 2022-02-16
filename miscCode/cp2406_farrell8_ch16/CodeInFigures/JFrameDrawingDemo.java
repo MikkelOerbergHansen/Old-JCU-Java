@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch16.CodeInFigures;
+
 import java.awt.*;
 import javax.swing.*;
 public class JFrameDrawingDemo extends JFrame

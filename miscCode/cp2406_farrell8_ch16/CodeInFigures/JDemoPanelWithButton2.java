@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch16.CodeInFigures;
+
 import javax.swing.*;
 import java.awt.*;
 public class JDemoPanelWithButton2 extends JFrame
