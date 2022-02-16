@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch04.CodeInFigures;
+
 public class Student
 {
    private static final int SCHOOL_ID = 12345;

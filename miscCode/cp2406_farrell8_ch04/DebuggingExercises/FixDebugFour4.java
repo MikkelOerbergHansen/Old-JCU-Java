@@ -1,5 +1,5 @@
 // This class discounts prices by 10%
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch04.DebuggingExercises;
 
 public class FixDebugFour4
 {

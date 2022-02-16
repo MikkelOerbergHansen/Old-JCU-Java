@@ -1,5 +1,5 @@
 // This class uses a FixDebugBox class to instantiate two Box objects
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch04.DebuggingExercises;
 
 public class FixDebugFour3 {
     public static void main(String args[]) {

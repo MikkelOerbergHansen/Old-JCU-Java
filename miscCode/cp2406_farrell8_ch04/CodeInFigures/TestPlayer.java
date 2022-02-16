@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch04.CodeInFigures;
+
 public class TestPlayer
 {
    public static void main(String[] args)

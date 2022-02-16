@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch04.DebuggingExercises;
 
 class FixDebugBox
 {

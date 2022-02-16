@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch04.CodeInFigures;
+
 public class RealEstateListing
 {
    private int listingNumber;

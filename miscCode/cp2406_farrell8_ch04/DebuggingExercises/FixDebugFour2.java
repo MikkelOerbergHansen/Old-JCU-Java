@@ -1,5 +1,5 @@
 // Some circle statistics
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch04.DebuggingExercises;
 
 public class FixDebugFour2
 {

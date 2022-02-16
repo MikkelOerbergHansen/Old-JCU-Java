@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch04.CodeInFigures;
+
 public class BaseballPlayer
 {
    private static int count = 0;

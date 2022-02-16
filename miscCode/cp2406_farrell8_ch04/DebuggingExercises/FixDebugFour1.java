@@ -1,6 +1,6 @@
 // This program assigns values to two variables
 // and performs mathematical operations with them
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch04.DebuggingExercises;
 
 public class FixDebugFour1
 {
