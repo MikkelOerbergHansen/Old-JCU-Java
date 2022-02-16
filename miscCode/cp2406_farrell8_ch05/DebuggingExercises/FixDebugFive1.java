@@ -3,7 +3,7 @@
 // Burger and hot dog are $2.59
 // Grilled cheese and fish are $1.99
 // Fries are 89 cents
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch05.DebuggingExercises;
 import javax.swing.*;
 public class FixDebugFive1
 {

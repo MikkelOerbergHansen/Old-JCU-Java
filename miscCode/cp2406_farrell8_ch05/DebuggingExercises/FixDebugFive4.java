@@ -1,6 +1,6 @@
 // FixDebugFive4.java
 // Outputs highest of four numbers
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch05.DebuggingExercises;
 import javax.swing.*;
 public class FixDebugFive4
 {

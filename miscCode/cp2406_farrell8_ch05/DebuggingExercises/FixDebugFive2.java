@@ -1,6 +1,6 @@
 // FixDebugFive2.java
 // Decides if two numbers are evenly divisible
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch05.DebuggingExercises;
 import java.util.Scanner;
 public class FixDebugFive2
 {
