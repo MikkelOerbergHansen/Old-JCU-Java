@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch10.CodeInFigures;
+
 public class EmployeeWithTerritory extends Employee
 {
    private int territory;

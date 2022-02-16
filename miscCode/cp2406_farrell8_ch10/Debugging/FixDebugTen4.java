@@ -1,4 +1,4 @@
-package Debugging;
+package miscCode.cp2406_farrell8_ch10.Debugging;
 
 // A customer's purchase is approved if the
 // purchase does not exceed the credit limit

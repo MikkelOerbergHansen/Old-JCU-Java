@@ -1,4 +1,4 @@
-package Debugging;
+package miscCode.cp2406_farrell8_ch10.Debugging;
 
 // A Vacation is 10 days
 // but an ExtendedVacation is 30 days

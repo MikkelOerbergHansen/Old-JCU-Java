@@ -1,4 +1,4 @@
-package Debugging;
+package miscCode.cp2406_farrell8_ch10.Debugging;
 // A Play has a title and author
 // A Musical is a Play that also has a composer
 

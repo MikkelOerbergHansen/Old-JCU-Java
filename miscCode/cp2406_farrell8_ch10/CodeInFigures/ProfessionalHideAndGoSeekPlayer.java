@@ -1,6 +1,6 @@
-package CodeInFigures;
+package miscCode.cp2406_farrell8_ch10.CodeInFigures;
 
-import CodeInFigures.HideAndGoSeekPlayer;
+import miscCode.cp2406_farrell8_ch10.CodeInFigures.HideAndGoSeekPlayer;
 
 public final class ProfessionalHideAndGoSeekPlayer
    extends HideAndGoSeekPlayer

@@ -1,4 +1,4 @@
-package Debugging;
+package miscCode.cp2406_farrell8_ch10.Debugging;
 // A PhoneBook is a Book with a city
 import javax.swing.*;
 public class FixDebugTen3
