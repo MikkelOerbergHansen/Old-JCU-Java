@@ -1,5 +1,7 @@
 // Program describes two files
 // tells you which one is newer and which one is larger
+package miscCode.cp2406_farrell8_ch13.DebuggingExercises;
+
 import java.nio.file.*;
 import java.nio.file.attribute.*;
 import java.io.IOException;

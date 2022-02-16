@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch13.CodeInFigures;
+
 import java.nio.file.*;
 import java.nio.file.attribute.*;
 import java.io.IOException;

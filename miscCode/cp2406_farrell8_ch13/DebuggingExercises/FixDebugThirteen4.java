@@ -1,6 +1,8 @@
 // Reads file of entrees and prices
 // prompts user for a cutoff price
 // and displays entrees that cost no more than the cutoff
+package miscCode.cp2406_farrell8_ch13.DebuggingExercises;
+
 import java.nio.file.*;
 import java.io.*;
 import static java.nio.file.AccessMode.*;

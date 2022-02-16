@@ -1,4 +1,6 @@
 // Crestes a file of entrees sold at a restaurant
+package miscCode.cp2406_farrell8_ch13.DebuggingExercises;
+
 import java.nio.file.*;
 import java.io.*;
 import static java.nio.file.AccessMode.*;
