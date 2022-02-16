@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch09.CodeInFigures;
+
 import java.util.Scanner;
 public class EnumDemo2
 {

@@ -1,4 +1,6 @@
 // Looks up author of selected books
+
+package miscCode.cp2406_farrell8_ch09.Debugging;
 import javax.swing.*;
 class FixDebugNine1
 {

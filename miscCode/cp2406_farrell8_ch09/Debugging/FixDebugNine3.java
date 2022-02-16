@@ -1,6 +1,9 @@
 // Application contains a starting list of three products for sale
 // The user is prompted for additional items
 // After each new entry, the alphabetically sorted list is displayed
+
+package miscCode.cp2406_farrell8_ch09.Debugging;
+
 import java.util.*;
 public class FixDebugNine3
 {

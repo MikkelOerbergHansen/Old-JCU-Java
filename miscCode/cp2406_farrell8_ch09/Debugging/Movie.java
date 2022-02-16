@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch09.Debugging;
+
 public class Movie
 {
    private String name;
