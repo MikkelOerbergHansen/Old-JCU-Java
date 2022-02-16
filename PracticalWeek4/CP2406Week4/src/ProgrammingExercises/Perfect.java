@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek4.CP2406Week4.src.ProgrammingExercises;
 
 public class Perfect {
     public static void main (String args[])

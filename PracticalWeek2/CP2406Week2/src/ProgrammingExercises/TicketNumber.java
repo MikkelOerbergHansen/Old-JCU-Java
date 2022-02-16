@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek2.CP2406Week2.src.ProgrammingExercises;
 
 import javax.swing.JOptionPane;
 

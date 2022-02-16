@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch02.DebuggingExercises;
+
 public class FixDebugTwo1
 {
    public static void main(String[] args)

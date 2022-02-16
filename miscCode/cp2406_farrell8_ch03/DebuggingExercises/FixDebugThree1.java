@@ -1,5 +1,5 @@
 // This class calculates a waitperson's tip as 15% of the bill
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch03.DebuggingExercises;
 
 public class FixDebugThree1
 {

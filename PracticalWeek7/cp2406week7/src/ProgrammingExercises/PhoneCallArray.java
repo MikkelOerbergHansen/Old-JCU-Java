@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek7.cp2406week7.src.ProgrammingExercises;
 
 //printing 10 phone calls from an array using a for loop
 public class PhoneCallArray {

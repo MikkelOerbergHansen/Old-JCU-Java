@@ -1,5 +1,5 @@
 // This application displays some math facts
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch03.DebuggingExercises;
 
 public class FixDebugThree2
 {

@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek7.cp2406week7.src.ProgrammingExercises;
 
 /*Create an array that holds 10 Books, varying
 Use for loop to display all books

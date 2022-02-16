@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek6.CP2406Week6.src.ProgrammingExercises;
 
 public class ScentedCandle extends Candle {
     public String Scent = "";

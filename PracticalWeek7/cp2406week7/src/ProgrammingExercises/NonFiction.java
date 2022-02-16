@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek7.cp2406week7.src.ProgrammingExercises;
 
 /*Child of Book Class
     Requires setPrice method of returning 37.99

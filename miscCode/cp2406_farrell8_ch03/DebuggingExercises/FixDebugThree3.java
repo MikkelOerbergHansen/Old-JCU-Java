@@ -1,6 +1,6 @@
 // This application gets a user's name and displays a greeting
 
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch03.DebuggingExercises;
 
 import java.util.Scanner;
 

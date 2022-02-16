@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek4.CP2406Week4.src.ProgrammingExercises;
 
 import javax.swing.*;
 import java.util.Arrays;

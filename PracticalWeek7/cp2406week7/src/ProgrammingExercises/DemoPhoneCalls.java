@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek7.cp2406week7.src.ProgrammingExercises;
 
 //Runs program using PhoneCall, Incoming/OutgoingPhoneCall.java files
 public class DemoPhoneCalls {

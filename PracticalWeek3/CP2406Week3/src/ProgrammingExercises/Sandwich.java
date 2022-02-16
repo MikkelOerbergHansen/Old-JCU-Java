@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek3.CP2406Week3.src.ProgrammingExercises;
 
 class Sandwich {
     private Bread Breadtype;

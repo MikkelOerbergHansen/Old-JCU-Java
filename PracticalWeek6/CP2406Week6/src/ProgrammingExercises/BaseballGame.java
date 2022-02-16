@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek6.CP2406Week6.src.ProgrammingExercises;
 
 public class BaseballGame {
     public String Team1;

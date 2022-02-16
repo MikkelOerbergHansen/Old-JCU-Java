@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek6.CP2406Week6.src.ProgrammingExercises;
 
 public class LittleLeagueBaseballGame extends BaseballGame {
     private int[] team1Scores = new int[]{-1, -1, -1, -1, -1, -1};

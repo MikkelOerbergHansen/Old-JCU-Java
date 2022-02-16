@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch02.DebuggingExercises;
+
 public class FixDebugTwo2
 //  This application performs arithmetic with two integers
 {

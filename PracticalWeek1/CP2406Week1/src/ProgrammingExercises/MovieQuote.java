@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek1.CP2406Week1.src.ProgrammingExercises;
 /* comments */
 
 public class MovieQuote {

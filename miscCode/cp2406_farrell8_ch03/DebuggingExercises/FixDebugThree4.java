@@ -1,5 +1,5 @@
 // This program calculates tutition bills as credits times rate per credit hour
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch03.DebuggingExercises;
 
 public class FixDebugThree4
 {

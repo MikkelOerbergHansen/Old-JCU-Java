@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch03.CodeInFigures;
+
 public class ComputeCommission
 {
    public static void main(String[] args)

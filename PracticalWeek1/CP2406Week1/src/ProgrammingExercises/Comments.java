@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek1.CP2406Week1.src.ProgrammingExercises;
 /* comments */
 
 //'Program comments are non-executing statements you add to a file for the purpose of documentation'

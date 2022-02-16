@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek8.CP2406Week8.src.ProgrammingExercises;
 
 import javax.swing.*;
 import java.awt.*;

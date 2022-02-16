@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "Assignment\\cp2406-project-MikkelOerberg2\\src"
+        "."
     ],
     "java.project.referencedLibraries": {
         "include": [

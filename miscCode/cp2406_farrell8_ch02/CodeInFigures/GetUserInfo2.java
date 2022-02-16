@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch02.CodeInFigures;
+
 import java.util.Scanner;
 public class GetUserInfo2
 {

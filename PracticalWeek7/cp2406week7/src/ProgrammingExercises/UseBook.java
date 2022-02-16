@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek7.cp2406week7.src.ProgrammingExercises;
 
 //This class contains function to run the program as a demonstration
 public class UseBook {

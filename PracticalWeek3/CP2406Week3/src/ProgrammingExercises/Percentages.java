@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek3.CP2406Week3.src.ProgrammingExercises;
 
 public class Percentages {
     public static void main(String args[])

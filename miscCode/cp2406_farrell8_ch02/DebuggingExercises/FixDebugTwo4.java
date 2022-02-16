@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch02.DebuggingExercises;
+
 import javax.swing.JOptionPane;
 /* "Enter price of item you are buying" */
 public class FixDebugTwo4

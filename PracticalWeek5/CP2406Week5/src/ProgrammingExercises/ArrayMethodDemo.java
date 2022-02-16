@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek5.CP2406Week5.src.ProgrammingExercises;
 
 public class ArrayMethodDemo {
     public static void main (String args[])

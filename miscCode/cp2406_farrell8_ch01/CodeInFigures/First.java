@@ -1,4 +1,4 @@
-package CodeInFigures;
+package miscCode.cp2406_farrell8_ch01.CodeInFigures;
 
 public class First
 {

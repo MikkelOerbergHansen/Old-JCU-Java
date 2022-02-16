@@ -1,4 +1,4 @@
-package ProgrammingExercises;
+package PracticalWeek2.CP2406Week2.src.ProgrammingExercises;
 
 public class InchesToFeet {
     public static void main(String[] args)
