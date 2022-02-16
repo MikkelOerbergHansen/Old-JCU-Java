@@ -1,4 +1,6 @@
 // User selects pizza topping and sees price
+package miscCode.cp2406_farrell8_ch14.DebuggingExercises;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

@@ -1,6 +1,8 @@
 // Beverage selector
 // Milk and cola are $3
 // all other drinks are $2
+package miscCode.cp2406_farrell8_ch14.DebuggingExercises;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;

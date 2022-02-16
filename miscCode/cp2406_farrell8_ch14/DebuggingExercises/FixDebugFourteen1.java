@@ -1,6 +1,8 @@
 // Creates a frame with a specified size
 // Twice as tall as wide
 // The size is a constructor argument
+package miscCode.cp2406_farrell8_ch14.DebuggingExercises;
+
 import javax.swing.*;
 public class FixDebugFourteen1 extends JFrame
 {

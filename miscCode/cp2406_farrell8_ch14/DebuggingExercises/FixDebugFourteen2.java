@@ -2,6 +2,8 @@
 //      - credit card, check or cash
 // Displays fee for using each - 5%, 2% or 0%
 
+package miscCode.cp2406_farrell8_ch14.DebuggingExercises;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
