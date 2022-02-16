@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch11.DebuggingExercises;
 
 // An array for different boat types
 public class FixDebugEleven2

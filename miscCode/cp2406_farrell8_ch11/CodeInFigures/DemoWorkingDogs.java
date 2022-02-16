@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch11.CodeInFigures;
+
 public class DemoWorkingDogs
 {
    public static void main(String[] args)

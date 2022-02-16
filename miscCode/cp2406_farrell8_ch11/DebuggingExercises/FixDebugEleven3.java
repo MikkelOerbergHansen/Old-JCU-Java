@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch11.DebuggingExercises;
 
 // Two boats should be equal
 // if they hold the same number of passengers

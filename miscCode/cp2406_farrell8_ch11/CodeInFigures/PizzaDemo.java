@@ -1,3 +1,5 @@
+package miscCode.cp2406_farrell8_ch11.CodeInFigures;
+
 public class PizzaDemo implements PizzaConstants
 {
    public static void main(String[] args)

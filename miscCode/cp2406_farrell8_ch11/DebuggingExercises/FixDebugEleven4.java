@@ -1,4 +1,4 @@
-package DebuggingExercises;
+package miscCode.cp2406_farrell8_ch11.DebuggingExercises;
 
 // Creates and displays an array of boats -
 // some are rowboats; some are ocean liners
