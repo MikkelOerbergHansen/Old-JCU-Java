@@ -10,7 +10,7 @@ public class FixDebugThirteen3
    public static void main(String[] args)
    {
       Path file =
-         Paths.get("C:\\Users\\hp\\IdeaProjects\\cp2406_farrell8_ch13\\DebuggingExercises\\DebugData4.txt");
+         Paths.get("miscCode/cp2406_farrell8_ch13/DebuggingExercises/DebugData4.txt");
       Scanner kb = new Scanner(System.in);
       String[] array = new String[2];
       String string = "";

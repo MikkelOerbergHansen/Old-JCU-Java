@@ -10,9 +10,9 @@ public class FixDebugThirteen1
    public static void main(String[] args)
    {
       Path file1 =
-         Paths.get ("C:\\Users\\hp\\IdeaProjects\\cp2406_farrell8_ch13\\DebuggingExercises\\DebugData1.txt");
+         Paths.get ("miscCode/cp2406_farrell8_ch13/DebuggingExercises/DebugData1.txt");
       Path file2 =
-         Paths.get("C:\\Users\\hp\\IdeaProjects\\cp2406_farrell8_ch13\\DebuggingExercises\\DebugData2.txt");
+         Paths.get("miscCode/cp2406_farrell8_ch13/DebuggingExercises/DebugData2.txt");
       try
       {
          BasicFileAttributes attr1 =

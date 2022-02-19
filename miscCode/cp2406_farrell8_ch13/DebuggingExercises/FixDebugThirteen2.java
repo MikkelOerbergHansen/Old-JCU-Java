@@ -13,9 +13,9 @@ public class FixDebugThirteen2
    public static void main(String[] args)
    {
       Path fileIn =
-         Paths.get("C:\\Users\\hp\\IdeaProjects\\cp2406_farrell8_ch13\\DebuggingExercises\\DebugData3.txt");
+         Paths.get("miscCode/cp2406_farrell8_ch13/DebuggingExercises/DebugData3.txt");
       Path fileOut =
-         Paths.get("C:\\Users\\hp\\IdeaProjects\\cp2406_farrell8_ch13\\DebuggingExercises\\DebugData3New.txt");
+         Paths.get("miscCode/cp2406_farrell8_ch13/DebuggingExercises/DebugData3New.txt");
       String areaCode = "(312) ";
       String phone;
       InputStream input = null;
