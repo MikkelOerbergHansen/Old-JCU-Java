@@ -123,7 +123,7 @@ public class Server {
                         leaderBoardNames.add(0, winner.getName());
                     }
 
-                    FileOutputStream fos = new FileOutputStream(new File("leaderboard.txt"));
+                    FileOutputStream fos = new FileOutputStream(new File("Assignment/cp2406ProjectMikkelOerberg2/src/leaderboard.txt"));
                     BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(fos));
                     for (int i = 0; i < leaderBoardScores.size(); i++) {
                         bw.write(String.format("%s,%d", leaderBoardNames.get(i), leaderBoardScores.get(i)));
@@ -320,7 +320,7 @@ public class Server {
         Server server = new Server(portNumber);
 
         try{
-            BufferedReader br = new BufferedReader(new FileReader("leaderboard.txt"));
+            BufferedReader br = new BufferedReader(new FileReader("Assignment/cp2406ProjectMikkelOerberg2/src/leaderboard.txt"));
             for(String line; (line = br.readLine()) != null; ) {
                 String tokens[] = line.split(",");
                 if(tokens.length >= 2) {
